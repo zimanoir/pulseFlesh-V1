@@ -1,0 +1,12 @@
+git command:
+
+git status (status della repository se ci sono aggiornamenti ecc)
+git add (aggiungi un file ai cambiamenti da aggiornare)
+
+esempi:
+git add .               (aggiorna tutto quello che sta nella repository)
+git add README.md       (aggiorna soltanto il file README.md)
+
+git commit -m "commento all'aggiornamento" (commenta l'aggiornamento)
+
+git push
