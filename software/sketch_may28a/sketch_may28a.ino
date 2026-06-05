@@ -15,7 +15,14 @@ const int LO_PLUS_PIN = 21;    // Пин D21
 const int LO_MINUS_PIN = 15;   // Пин D15
 
 void setup() {
+  pinMode(BUILTIN_LED, INPUT)
   Serial.begin(115200);
+
+  digitalWrite(BUILTIN_LED, LOW)
+  delay(1)
+  digitalWrite(BUILTIN_LED, HIGH)
+  delay(1)
+  digitalWrite(BUILTIN_LED, LOW)
 
   pinMode(LO_PLUS_PIN, INPUT);
   pinMode(LO_MINUS_PIN, INPUT);
@@ -30,6 +37,8 @@ void setup() {
     delay(500);
     Serial.print(".");
   }
+
+  digitalWrite(BUILTIN_LED, HIGH)
 
   Serial.println("");
   Serial.println("Wi-Fi подключен!");
