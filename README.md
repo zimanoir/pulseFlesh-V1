@@ -37,6 +37,12 @@ Rather than a strict rhythmic sequencer, it functions more like a **chaotic nois
 
 ## Get Started
 
+<img src="Images/prototype-eurorack%201.0.png" alt="pulseFlesh V1 prototype" width="300" style="float: left; margin-right: 20px; margin-bottom: 20px;"/>
+
+Здесь ты пишешь свой текст. Благодаря `float: left` картинка прижимается к левому краю, а текст автоматически начинает обтекать её с правой стороны. 
+
+Не забудь добавить `margin-right`, чтобы текст не прилипал к картинке, и `margin-bottom` для отступа снизу.
+
 1. **Read the [Building Guide](documentation/BUILDING.md)** – Solder components and assemble the enclosure
 2. **Upload the [Firmware](software/pulseFlesh%20v1.ino)** – Flash the ESP32 with the provided sketch
 3. **Patch & Perform** – Connect your synth and start creating
