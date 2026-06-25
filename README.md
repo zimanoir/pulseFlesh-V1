@@ -37,7 +37,12 @@ Rather than a strict rhythmic sequencer, it functions more like a **chaotic nois
 
 ## Get Started
 
-<img src="Images/prototype-eurorack%201.0.png" alt="pulseFlesh V1 prototype" width="300" style="float: left; margin-right: 20px; margin-bottom: 20px;"/>
+<img src="images/prototype-eurorack%201.0.png" alt="pulseFlesh V1 faceplate" width="250" style="float: left; margin-right: 20px; margin-bottom: 20px; border: 1px solid #333; border-radius: 4px;"/>
+
+### about the hardware
+the pulseflesh v1 panel is designed to provide immediate visual feedback on the bio-data flow. the led strip tracks real-time signal intensity, while the clearly marked inputs and outputs allow for quick patching. the layout focuses on the balance between chaotic bio-modulation and controlled sequencing, making it an intuitive tool for both experimental noise and structured rhythm generation.
+
+<div style="clear: both;"></div>
 
 Здесь ты пишешь свой текст. Благодаря `float: left` картинка прижимается к левому краю, а текст автоматически начинает обтекать её с правой стороны. 
 
