@@ -1,6 +1,6 @@
 # Hardware Prototype
 
-```
+<pre>
 ======================================================================================
                                pulseFlesh V1 SYSTEM SCHEMATIC
 ======================================================================================
@@ -65,4 +65,4 @@
   External Synth           External Synth           External Synth
    CV Modulation            CV Modulation            CV Trigger / Clock
   (e.g., Pitch/Pitch FM)    (e.g., VCF/Cutoff)       (e.g., Gate/LFO/PWM)
-```
+</pre>
