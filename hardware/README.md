@@ -40,18 +40,18 @@ graph TD
     style Charging fill:#90ee90
 ```
 
-## Компоненты
+## Components
 
-| Компонент | Функция | Пины |
-|-----------|---------|------|
-| 18650 Battery | Питание | B+/B- |
-| Charging Board | Управление питанием | VOUT+/GND |
-| ESP32 | Микроконтроллер | D21, D15, D25, D32, D36 |
-| AD8232 ECG | ЭКГ датчик | LO+/LO-/Output |
-| B10K Potentiometer | Сплиттер сигнала | 1/2/3 |
-| Resistors (1kΩ) | Защита/согласование | - |
+| Component | Function | Pins |
+|-----------|----------|------|
+| 18650 Battery | Power supply | B+/B- |
+| Charging Board | Power management | VOUT+/GND |
+| ESP32 | Microcontroller | D21, D15, D25, D32, D36 |
+| AD8232 ECG | ECG sensor | LO+/LO-/Output |
+| B10K Potentiometer | Signal splitter | 1/2/3 |
+| Resistors (1kΩ) | Protection/impedance matching | - |
 
-## Выходы
+## Outputs
 
 - **Jack #1 (MIX 1)** → External Synth (CV Modulation: Pitch/Pitch FM)
 - **Jack #2 (MIX 2)** → External Synth (CV Modulation: VCF/Cutoff)
