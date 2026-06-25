@@ -1,32 +1,28 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: MTR Template
-message: >-
+title: pulseFlesh V1
+message: >
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Alessandro
-    name-particle: A
-    family-names: Fiordelmondo
-    email: fiordelmondo@dei.unipd.it
-    affiliation: CSC Padova
-    orcid: 'https://orcid.org/0000-0002-4670-5298'
-  - given-names: Matteo
-    name-particle: M
-    family-names: Spanio
-    email: spanio@dei.unipd.it
-    affiliation: CSC Padova
-    orcid: 'https://orcid.org/0000-0002-2436-7208'
-repository-code: 'https://github.com/CSCPadova/MTR-template'
-abstract: >-
-  The Music Technology Research template is a repository
-  template for creating a new repository related to a
-  research project in the field of music technology.
+  - given-names: Fëdor
+    family-names: Zima
+    email: zimanoir@gmail.com
+    affiliation: Conservatorio Maderna-Lettimi Cesena Rimini
+repository-code: 'https://github.com/zimanoir/pulseFlesh-V1'
+abstract: >
+  pulseFlesh V1 is a bio-interface NIME that converts body signals
+  (ECG, heart rate, muscle activity, and mechanical impacts) into
+  control voltages for analog synthesizers. It enables live performance
+  and experimental sound creation through embodied interaction by
+  transforming physiological data into expressive modulation sources
+  for synthesizer parameters like pitch, filter cutoff, and trigger signals.
 keywords:
-  - Music Technology Research
-  - Repository
-  - Template
+  - NIME
+  - DMI
+  - Bio-interface
+  - Wearable
+  - CV Synthesis
+  - Performance Art
+  - Interactive Sound Design
 license: MIT
