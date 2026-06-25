@@ -38,6 +38,6 @@ The microcontroller runs a very fast loop to make sure there is no noticeable de
 
 The goal is to expand this setup into a fully featured performance tool. The current roadmap includes:
 
-* Designing a proper Eurorack format module with an integrated low-noise power circuit running on standard synth rails.
-* Developing a full 16-step sequencer engine based on internal hardware timers.
-* Implementing stable CV outputs alongside native MIDI over USB and a classic 5-pin MIDI output port to sequence external hardware and software instruments simultaneously.
+* Eurorack Integration: Designing a standard modular unit with dedicated low-noise power regulation and hardware-protected I/O for safe patching.
+* Precision CV & Sequencing: Upgrading to a 16-step engine with Rail-to-Rail Op-Amp scaling (0-10V), built-in V/Oct quantization, and bi-polar offset control.
+* Hybrid Connectivity: Implementing native MIDI (USB & 5-pin DIN) alongside wireless Wi-Fi control, allowing for seamless sequencing of external hardware and software instruments simultaneously.
