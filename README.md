@@ -14,6 +14,7 @@ Rather than a strict rhythmic sequencer, it functions more like a **chaotic nois
 - 🔧 **[Building Instructions](documentation/BUILDING.md)** – How to assemble the hardware
 - ⚙️ **[Hardware Specs](hardware/)** – Schematics and component details
 - 💾 **[Firmware](software/)** – ESP32 Arduino sketches
+- 🎧 **[Listen to](https://on.soundcloud.com/DI3SJaFWWPOsZSelK7/) - SoundCloud test recording
 
 ## Key Features
 
